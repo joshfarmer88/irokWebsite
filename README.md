@@ -1,0 +1,2 @@
+# irokWebsite
+Website that was designed and developed for a nonprofit organization that helps Indiana families with a certain blood disorder. HTML, CSS, flexbox, and JavaScript plugins were used to develop the website. This was a project for a web design course and while the organization I was developing the site for is in fact real, the project was more to show the foundation what a potential website for them could look like. 
